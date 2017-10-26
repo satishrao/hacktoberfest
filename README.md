@@ -36,6 +36,7 @@ OSDG - IIIT in asscoation with Center for Open Source, IIIT Hyderabad.
 - [Rust Hyderabad](https://www.meetup.com/preview/Rust-Hyderabad)
 - [Drupal Hyderabad](https://www.meetup.com/preview/Drupal-Hyderabad)
 - [GEO Hyderabad](https://twitter.com/GeoHyderabad)
+- [IoT User Group Hyderabad](https://www.meetup.com/IoT-User-Group)
 
 ### FAQ :
 **Will I receive the T-shirt on the same day?**
